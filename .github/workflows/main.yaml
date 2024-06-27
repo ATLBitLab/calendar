@@ -23,6 +23,7 @@ jobs:
             name: 'ATL BitLab Events'
             repository: "ATLBitLab,calendar,event"
             file: 'events.ical'
+            timezone: "America/New_York"
         - name: Commit files
           run: |
             git config --local user.email "calendar-action@github.com"
