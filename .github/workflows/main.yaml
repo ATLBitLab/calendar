@@ -21,7 +21,7 @@ jobs:
             domain: 'atlbitlab.com'
             company: 'ATL BitLab'
             name: 'ATL BitLab Events'
-            repository: "ATLBitLab,calendar,call"
+            repository: "ATLBitLab,calendar,event"
             file: 'events.ical'
         - name: Commit files
           run: |
