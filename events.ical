@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ATL BitLab//ical-generator//EN
+NAME:ATL BitLab Events
+X-WR-CALNAME:ATL BitLab Events
+TIMEZONE-ID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:2560257067@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241022T130000Z
+DTSTART:20241022T130000Z
+DTEND:20241022T220000Z
+SUMMARY:TABConf [FREE PLAY] #2 - Open Co-working Day
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /42
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/42\">https://github.com/ATLBitLab/calendar/iss
+ ues/42</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/42
+END:VEVENT
+BEGIN:VEVENT
+UID:2560256858@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241021T130000Z
+DTSTART:20241021T130000Z
+DTEND:20241021T220000Z
+SUMMARY:TABConf [FREE PLAY] #1 - Open Co-working Day
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /41
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/41\">https://github.com/ATLBitLab/calendar/iss
+ ues/41</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/41
+END:VEVENT
+BEGIN:VEVENT
+UID:2560118183@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241003T130000Z
+DTSTART:20241003T130000Z
+DTEND:20241003T210000Z
+SUMMARY:☕️ Ecash Coffee Day - Open Co-working
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /40
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/40\">https://github.com/ATLBitLab/calendar/iss
+ ues/40</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/40
+END:VEVENT
+BEGIN:VEVENT
+UID:2559035456@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241014T220000Z
+DTSTART:20241014T220000Z
+DTEND:20241015T000000Z
+SUMMARY:AiTL - AI Builders Meetup #4
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /39
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/39\">https://github.com/ATLBitLab/calendar/iss
+ ues/39</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/39
+END:VEVENT
+BEGIN:VEVENT
+UID:2559020436@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241007T220000Z
+DTSTART:20241007T220000Z
+DTEND:20241008T000000Z
+SUMMARY:🌙 Security Night #4
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /38
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/38\">https://github.com/ATLBitLab/calendar/iss
+ ues/38</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/38
+END:VEVENT
+BEGIN:VEVENT
+UID:2558999258@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241021T220000Z
+DTSTART:20241021T220000Z
+DTEND:20241022T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #4
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /37
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/37\">https://github.com/ATLBitLab/calendar/iss
+ ues/37</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/37
+END:VEVENT
+BEGIN:VEVENT
+UID:2494263820@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240923T220000Z
+DTSTART:20240923T220000Z
+DTEND:20240924T000000Z
+SUMMARY:ATL Designers #2
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /36
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/36\">https://github.com/ATLBitLab/calendar/iss
+ ues/36</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/36
+END:VEVENT
+BEGIN:VEVENT
+UID:2494257928@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240916T220000Z
+DTSTART:20240916T220000Z
+DTEND:20240917T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #3
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /35
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/35\">https://github.com/ATLBitLab/calendar/iss
+ ues/35</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/35
+END:VEVENT
+BEGIN:VEVENT
+UID:2494253091@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240903T220000Z
+DTSTART:20240903T220000Z
+DTEND:20240904T000000Z
+SUMMARY:🌙 Security Night #3
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /34
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/34\">https://github.com/ATLBitLab/calendar/iss
+ ues/34</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/34
+END:VEVENT
+BEGIN:VEVENT
+UID:2494230935@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240909T220000Z
+DTSTART:20240909T220000Z
+DTEND:20240910T000000Z
+SUMMARY:AiTL - AI Builders Meetup #3
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /33
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/33\">https://github.com/ATLBitLab/calendar/iss
+ ues/33</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/33
+END:VEVENT
+BEGIN:VEVENT
+UID:2423990674@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240930T220000Z
+DTSTART:20240930T220000Z
+DTEND:20241001T000000Z
+SUMMARY:O4W Tech Social - Fall
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /32
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/32\">https://github.com/ATLBitLab/calendar/iss
+ ues/32</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/32
+END:VEVENT
+BEGIN:VEVENT
+UID:2423989343@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240729T220000Z
+DTSTART:20240729T220000Z
+DTEND:20240730T000000Z
+SUMMARY:O4W Tech Social - Summer
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /31
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/31\">https://github.com/ATLBitLab/calendar/iss
+ ues/31</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/31
+END:VEVENT
+BEGIN:VEVENT
+UID:2408593749@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240819T220000Z
+DTSTART:20240819T220000Z
+DTEND:20240820T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #2
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /30
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/30\">https://github.com/ATLBitLab/calendar/iss
+ ues/30</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/30
+END:VEVENT
+BEGIN:VEVENT
+UID:2408590868@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240715T220000Z
+DTSTART:20240715T220000Z
+DTEND:20240716T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #1
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /29
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/29\">https://github.com/ATLBitLab/calendar/iss
+ ues/29</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/29
+END:VEVENT
+BEGIN:VEVENT
+UID:2394366410@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240812T220000Z
+DTSTART:20240812T220000Z
+DTEND:20240813T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #2
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /28
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/28\">https://github.com/ATLBitLab/calendar/iss
+ ues/28</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/28
+END:VEVENT
+BEGIN:VEVENT
+UID:2394364708@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240708T220000Z
+DTSTART:20240708T220000Z
+DTEND:20240709T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #1
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /27
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/27\">https://github.com/ATLBitLab/calendar/iss
+ ues/27</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/27
+END:VEVENT
+BEGIN:VEVENT
+UID:2383684755@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240805T220000Z
+DTSTART:20240805T220000Z
+DTEND:20240806T000000Z
+SUMMARY:🌙 Security Night #2
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /26
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/26\">https://github.com/ATLBitLab/calendar/iss
+ ues/26</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/26
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503872@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241113T230000Z
+DTSTART:20241113T230000Z
+DTEND:20241114T010000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - November
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /25
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/25\">https://github.com/ATLBitLab/calendar/iss
+ ues/25</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/25
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503855@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241009T220000Z
+DTSTART:20241009T220000Z
+DTEND:20241010T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - October
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /24
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/24\">https://github.com/ATLBitLab/calendar/iss
+ ues/24</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/24
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503830@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240911T220000Z
+DTSTART:20240911T220000Z
+DTEND:20240912T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - September
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /23
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/23\">https://github.com/ATLBitLab/calendar/iss
+ ues/23</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/23
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503808@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240814T220000Z
+DTSTART:20240814T220000Z
+DTEND:20240815T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - August
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /22
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/22\">https://github.com/ATLBitLab/calendar/iss
+ ues/22</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/22
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503767@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240710T220000Z
+DTSTART:20240710T220000Z
+DTEND:20240711T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - July
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /21
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/21\">https://github.com/ATLBitLab/calendar/iss
+ ues/21</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/21
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483560@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241127T230000Z
+DTSTART:20241127T230000Z
+DTEND:20241128T020000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - November
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /20
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/20\">https://github.com/ATLBitLab/calendar/iss
+ ues/20</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/20
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483548@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240925T220000Z
+DTSTART:20240925T220000Z
+DTEND:20240926T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - September
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /19
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/19\">https://github.com/ATLBitLab/calendar/iss
+ ues/19</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/19
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483532@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240828T220000Z
+DTSTART:20240828T220000Z
+DTEND:20240829T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - August
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /18
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/18\">https://github.com/ATLBitLab/calendar/iss
+ ues/18</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/18
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483516@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240724T220000Z
+DTSTART:20240724T220000Z
+DTEND:20240725T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - July
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /17
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/17\">https://github.com/ATLBitLab/calendar/iss
+ ues/17</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/17
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466916@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241120T230000Z
+DTSTART:20241120T230000Z
+DTEND:20241121T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #34
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /16
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/16\">https://github.com/ATLBitLab/calendar/iss
+ ues/16</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/16
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466905@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241023T220000Z
+DTSTART:20241023T220000Z
+DTEND:20241024T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #33 @ Manuel's Tavern
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /15
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/15\">https://github.com/ATLBitLab/calendar/iss
+ ues/15</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/15
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466900@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240918T220000Z
+DTSTART:20240918T220000Z
+DTEND:20240919T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #32
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /14
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/14\">https://github.com/ATLBitLab/calendar/iss
+ ues/14</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/14
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466886@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240821T220000Z
+DTSTART:20240821T220000Z
+DTEND:20240822T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #31
+DESCRIPTION:Find out more at: https://github.com/ATLBitLab/calendar/issues
+ /13
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/ATLBitLab/calendar/issues/13\">https://github.com/ATLBitLab/calendar/iss
+ ues/13</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/13
+END:VEVENT
+END:VCALENDAR
