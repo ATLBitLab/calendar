@@ -16,7 +16,7 @@ jobs:
         - uses: actions/checkout@v3
         - name: Create calendar
           id: hello
-          uses: GBKS/github-events-calendar@v0.1.6
+          uses: sbddesign/github-events-calendar@v0.1.6
           with:
             domain: 'atlbitlab.com'
             company: 'ATL BitLab'
