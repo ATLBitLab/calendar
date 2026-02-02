@@ -1,0 +1,2255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ATL BitLab//ical-generator//EN
+NAME:ATL BitLab Events
+X-WR-CALNAME:ATL BitLab Events
+TIMEZONE-ID:America/New_York
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:3887447301@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260325T220000Z
+DTSTART:20260325T220000Z
+DTEND:20260326T000000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - March
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/312420828/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/139\n\nPoster: 2026/bitplebs-pub-night-march.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/312420828/\">https://www.mee
+ tup.com/atlbitlab/events/312420828/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/139\">https://github.
+ com/ATLBitLab/calendar/issues/139</a><br><br>Poster: 2026/bitplebs-pub-nig
+ ht-march.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/139
+END:VEVENT
+BEGIN:VEVENT
+UID:3887442097@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260311T230000Z
+DTSTART:20260311T230000Z
+DTEND:20260312T010000Z
+SUMMARY:BitPlebs: Reading Sovereign Individual Ch. 8
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/312421293/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/138\n\nPoster: 2026/bitplebs-sovereign-individual
+ -ch8.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/312421293/\">https://www.mee
+ tup.com/atlbitlab/events/312421293/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/138\">https://github.
+ com/ATLBitLab/calendar/issues/138</a><br><br>Poster: 2026/bitplebs-soverei
+ gn-individual-ch8.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/138
+END:VEVENT
+BEGIN:VEVENT
+UID:3887437026@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260225T230000Z
+DTSTART:20260225T230000Z
+DTEND:20260226T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - February
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/312420814/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/137\n\nPoster: 2026/bitplebs-pub-night-february.j
+ pg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/312420814/\">https://www.mee
+ tup.com/atlbitlab/events/312420814/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/137\">https://github.
+ com/ATLBitLab/calendar/issues/137</a><br><br>Poster: 2026/bitplebs-pub-nig
+ ht-february.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/137
+END:VEVENT
+BEGIN:VEVENT
+UID:3887431933@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260218T230000Z
+DTSTART:20260218T230000Z
+DTEND:20260219T013000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #47
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/313176351/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/136\n\nPoster: 2026/bitdevs-socratic-47.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/313176351/\">https://www.mee
+ tup.com/atlbitlab/events/313176351/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/136\">https://github.
+ com/ATLBitLab/calendar/issues/136</a><br><br>Poster: 2026/bitdevs-socratic
+ -47.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/136
+END:VEVENT
+BEGIN:VEVENT
+UID:3887426831@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260211T230000Z
+DTSTART:20260211T230000Z
+DTEND:20260212T010000Z
+SUMMARY:BitPlebs: Reading Sovereign Individual Ch. 6
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/312421137/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/135\n\nPoster: 2026/bitplebs-sovereign-individual
+ -ch6.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/312421137/\">https://www.mee
+ tup.com/atlbitlab/events/312421137/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/135\">https://github.
+ com/ATLBitLab/calendar/issues/135</a><br><br>Poster: 2026/bitplebs-soverei
+ gn-individual-ch6.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/135
+END:VEVENT
+BEGIN:VEVENT
+UID:3883509006@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20260204T230000Z
+DTSTART:20260204T230000Z
+DTEND:20260205T010000Z
+SUMMARY:Bitcoin Builders #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/313165317/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/134\n\nPoster: 2026/bitcoin-builders-2.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/313165317/\">https://www.mee
+ tup.com/atlbitlab/events/313165317/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/134\">https://github.
+ com/ATLBitLab/calendar/issues/134</a><br><br>Poster: 2026/bitcoin-builders
+ -2.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/134
+END:VEVENT
+BEGIN:VEVENT
+UID:3394846828@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250908T220000Z
+DTSTART:20250908T220000Z
+DTEND:20250909T000000Z
+SUMMARY:AiTL: AI Builders Meetup - #13
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035430/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/132\n\nPoster: 2025/aitl-ai-builders.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035430/\">https://www.mee
+ tup.com/atlbitlab/events/307035430/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/132\">https://github.
+ com/ATLBitLab/calendar/issues/132</a><br><br>Poster: 2025/aitl-ai-builders
+ .jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/132
+END:VEVENT
+BEGIN:VEVENT
+UID:3328719204@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250818T220000Z
+DTSTART:20250818T220000Z
+DTEND:20250819T000000Z
+SUMMARY:Nostr Atlanta #6 - White Noise Protocol
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035500\n\nContribute to the event: https://github.com/AT
+ LBitLab/calendar/issues/131\n\nPoster: 2025/nostr-atlanta.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035500\">https://www.meet
+ up.com/atlbitlab/events/307035500</a><br><br>Contribute to the event: <a h
+ ref=\"https://github.com/ATLBitLab/calendar/issues/131\">https://github.co
+ m/ATLBitLab/calendar/issues/131</a><br><br>Poster: 2025/nostr-atlanta.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/131
+END:VEVENT
+BEGIN:VEVENT
+UID:3136665354@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250628T190000Z
+DTSTART:20250628T190000Z
+DTEND:20250628T200000Z
+SUMMARY:Builder Jam Session | Bitcoin Mining Hackathon
+LOCATION:https://www.meetup.com/atlbitlab/events/308416530/?eventOrigin=gr
+ oup_events_list
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/129\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/129\">https://git
+ hub.com/ATLBitLab/calendar/issues/129</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/129
+END:VEVENT
+BEGIN:VEVENT
+UID:3136665252@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250621T190000Z
+DTSTART:20250621T190000Z
+DTEND:20250621T200000Z
+SUMMARY:Builder Jam Session | Bitcoin Mining Hackathon
+LOCATION:https://www.meetup.com/atlbitlab/events/308416523/?eventOrigin=gr
+ oup_events_list
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/128\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/128\">https://git
+ hub.com/ATLBitLab/calendar/issues/128</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/128
+END:VEVENT
+BEGIN:VEVENT
+UID:3112035992@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250706T210000Z
+DTSTART:20250706T210000Z
+DTEND:20250706T220000Z
+SUMMARY:Awards Ceremony | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=gh8ZKrAdS9U
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/127\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/127\">https://git
+ hub.com/ATLBitLab/calendar/issues/127</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/127
+END:VEVENT
+BEGIN:VEVENT
+UID:3112033541@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250706T180000Z
+DTSTART:20250706T180000Z
+DTEND:20250706T190000Z
+SUMMARY:Finalists Presentations | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=yQjVJcQ9L1M
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/126\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/126\">https://git
+ hub.com/ATLBitLab/calendar/issues/126</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/126
+END:VEVENT
+BEGIN:VEVENT
+UID:3112032329@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250703T190000Z
+DTSTART:20250703T190000Z
+DTEND:20250703T200000Z
+SUMMARY:Finalists Announced | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=B6n7CjMrJFA
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/125\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/125\">https://git
+ hub.com/ATLBitLab/calendar/issues/125</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/125
+END:VEVENT
+BEGIN:VEVENT
+UID:3112030550@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250617T140000Z
+DTSTART:20250617T140000Z
+DTEND:20250617T150000Z
+SUMMARY:Launch a Mining Pool with Stratum V2 SRI with Gabriele Vernetti | 
+ Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=8Md54DCAxBU
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/124\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/124\">https://git
+ hub.com/ATLBitLab/calendar/issues/124</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/124
+END:VEVENT
+BEGIN:VEVENT
+UID:3112027404@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250614T190000Z
+DTSTART:20250614T190000Z
+DTEND:20250614T200000Z
+SUMMARY:Builder Jam Session & Bitmain S9 Tinkering | Bitcoin Mining Hackat
+ hon
+LOCATION:https://www.youtube.com/watch?v=zwuF5BRFZp0
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/123\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/123\">https://git
+ hub.com/ATLBitLab/calendar/issues/123</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/123
+END:VEVENT
+BEGIN:VEVENT
+UID:3112025872@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250613T190000Z
+DTSTART:20250613T190000Z
+DTEND:20250613T200000Z
+SUMMARY:Launch Your Own Mining Pool & Join HashLeague! | Bitcoin Mining Ha
+ ckathon
+LOCATION:https://www.youtube.com/watch?v=TBs1HndQnCI
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/122\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/122\">https://git
+ hub.com/ATLBitLab/calendar/issues/122</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/122
+END:VEVENT
+BEGIN:VEVENT
+UID:3112023351@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250612T190000Z
+DTSTART:20250612T190000Z
+DTEND:20250612T200000Z
+SUMMARY:Build Your Own Damn Bitaxe with Skot | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=Drkc99uqyHU
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/121\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/121\">https://git
+ hub.com/ATLBitLab/calendar/issues/121</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/121
+END:VEVENT
+BEGIN:VEVENT
+UID:3112020152@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250610T190000Z
+DTSTART:20250610T190000Z
+DTEND:20250610T200000Z
+SUMMARY:Principles of Home Mining with rev.hodl | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=lC3VjTWZRH0
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/120\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/120\">https://git
+ hub.com/ATLBitLab/calendar/issues/120</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/120
+END:VEVENT
+BEGIN:VEVENT
+UID:3112017636@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250609T190000Z
+DTSTART:20250609T190000Z
+DTEND:20250609T200000Z
+SUMMARY:Intro to HashPool with vnprc | Bitcoin Mining Hackathon
+LOCATION:https://www.youtube.com/watch?v=OzcGb5UNwK8
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/119\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/119\">https://git
+ hub.com/ATLBitLab/calendar/issues/119</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/119
+END:VEVENT
+BEGIN:VEVENT
+UID:3111986029@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250607T190000Z
+DTSTART:20250607T190000Z
+DTEND:20250607T200000Z
+SUMMARY:Kick-off Ceremony | The Battle of the Mine-hackers
+LOCATION:https://www.youtube.com/watch?v=Eqgn96e40Qk
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/118\n\nPoster: 2025/mine-hacker-poster.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/118\">https://git
+ hub.com/ATLBitLab/calendar/issues/118</a><br><br>Poster: 2025/mine-hacker-
+ poster.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/118
+END:VEVENT
+BEGIN:VEVENT
+UID:3086197864@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250609T220000Z
+DTSTART:20250609T220000Z
+DTEND:20250610T000000Z
+SUMMARY:AiTL: AI Builders Meetup - #10
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035424/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/117\n\nPoster: 2025/aitl-ai-builders.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035424/\">https://www.mee
+ tup.com/atlbitlab/events/307035424/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/117\">https://github.
+ com/ATLBitLab/calendar/issues/117</a><br><br>Poster: 2025/aitl-ai-builders
+ .jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/117
+END:VEVENT
+BEGIN:VEVENT
+UID:3043299101@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240602T220000Z
+DTSTART:20240602T220000Z
+DTEND:20240603T000000Z
+SUMMARY:Security Night - June 2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/116
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/116\">https://github.com/ATLBitLab/cale
+ ndar/issues/116</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/116
+END:VEVENT
+BEGIN:VEVENT
+UID:2977351250@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250419T190000Z
+DTSTART:20250419T190000Z
+DTEND:20250419T210000Z
+SUMMARY:Bitcoin Workshop: Build a Lightning App in 2 Hours
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Members\n\nRSVP to the event: https://www.meetup.com/a
+ tlbitlab/events/307162784/\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/114\n\nPoster: 2025/bitcoin-workshop-build-light
+ ning-app-atl-bitlab.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Members<br><br>RSVP to the event: <a 
+ href=\"https://www.meetup.com/atlbitlab/events/307162784/\">https://www.me
+ etup.com/atlbitlab/events/307162784/</a><br><br>Contribute to the event: <
+ a href=\"https://github.com/ATLBitLab/calendar/issues/114\">https://github
+ .com/ATLBitLab/calendar/issues/114</a><br><br>Poster: 2025/bitcoin-worksho
+ p-build-lightning-app-atl-bitlab.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/114
+END:VEVENT
+BEGIN:VEVENT
+UID:2977302178@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250412T190000Z
+DTSTART:20250412T190000Z
+DTEND:20250412T210000Z
+SUMMARY:Bitcoin Hackathon Kickstart - Find a Team\, Launch an Idea\, and L
+ earn How to Win!
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307162249/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/113\n\nPoster: 2025/bitcoin-2025-hackathon-jam-ki
+ ckstart.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307162249/\">https://www.mee
+ tup.com/atlbitlab/events/307162249/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/113\">https://github.
+ com/ATLBitLab/calendar/issues/113</a><br><br>Poster: 2025/bitcoin-2025-hac
+ kathon-jam-kickstart.png
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/113
+END:VEVENT
+BEGIN:VEVENT
+UID:2965043362@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250421T220000Z
+DTSTART:20250421T220000Z
+DTEND:20250422T000000Z
+SUMMARY:Nostr Atlanta #2 - making the internet weird again
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035494/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/112\n\nPoster: 2025/nostr-atlanta.png
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035494/\">https://www.mee
+ tup.com/atlbitlab/events/307035494/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/112\">https://github.
+ com/ATLBitLab/calendar/issues/112</a><br><br>Poster: 2025/nostr-atlanta.pn
+ g
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/112
+END:VEVENT
+BEGIN:VEVENT
+UID:2961663694@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250407T220000Z
+DTSTART:20250407T220000Z
+DTEND:20250408T000000Z
+SUMMARY:Security Night #8 - Cybersecurity\, InfoSec\, Hacking Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035466/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/111\n\nPoster: 2025/security-night-hacker-cyberse
+ curity-infosec.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035466/\">https://www.mee
+ tup.com/atlbitlab/events/307035466/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/111\">https://github.
+ com/ATLBitLab/calendar/issues/111</a><br><br>Poster: 2025/security-night-h
+ acker-cybersecurity-infosec.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/111
+END:VEVENT
+BEGIN:VEVENT
+UID:2961663639@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250414T220000Z
+DTSTART:20250414T220000Z
+DTEND:20250415T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #8
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035421/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/110\n\nPoster: 2025/aitl-ai-builders.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035421/\">https://www.mee
+ tup.com/atlbitlab/events/307035421/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/110\">https://github.
+ com/ATLBitLab/calendar/issues/110</a><br><br>Poster: 2025/aitl-ai-builders
+ .jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/110
+END:VEVENT
+BEGIN:VEVENT
+UID:2961663565@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250428T220000Z
+DTSTART:20250428T220000Z
+DTEND:20250429T000000Z
+SUMMARY:ATL Designers #6 - Graphic Design\, UX/UI\, MoGraph\, 3D Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/307035507/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/109\n\nPoster: 2025/atl-designers.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/307035507/\">https://www.mee
+ tup.com/atlbitlab/events/307035507/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/109\">https://github.
+ com/ATLBitLab/calendar/issues/109</a><br><br>Poster: 2025/atl-designers.jp
+ g
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/109
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399366@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250331T220000Z
+DTSTART:20250331T220000Z
+DTEND:20250401T000000Z
+SUMMARY:Spring Tech Social
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305319814/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/108\n\nPoster: 2025/tech-social.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305319814/\">https://www.mee
+ tup.com/atlbitlab/events/305319814/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/108\">https://github.
+ com/ATLBitLab/calendar/issues/108</a><br><br>Poster: 2025/tech-social.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/108
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399348@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250324T220000Z
+DTSTART:20250324T220000Z
+DTEND:20250325T000000Z
+SUMMARY:ATL Designers #5 - Graphic Design\, UX/UI\, MoGraph\, 3D Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/107
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/107\">https://github.com/ATLBitLab/cale
+ ndar/issues/107</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/107
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399325@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250224T230000Z
+DTSTART:20250224T230000Z
+DTEND:20250225T010000Z
+SUMMARY:ATL Designers #4 - Graphic Design\, UX/UI\, MoGraph\, 3D Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/106
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/106\">https://github.com/ATLBitLab/cale
+ ndar/issues/106</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/106
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399298@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250127T230000Z
+DTSTART:20250127T230000Z
+DTEND:20250128T010000Z
+SUMMARY:ATL Designers #3 - Graphic Design\, UX/UI\, MoGraph\, 3D Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/105
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/105\">https://github.com/ATLBitLab/cale
+ ndar/issues/105</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/105
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399270@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250317T220000Z
+DTSTART:20250317T220000Z
+DTEND:20250318T000000Z
+SUMMARY:CANCELLED: DIDdevs: Decentralized Web Meetup #8
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/104
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/104\">https://github.com/ATLBitLab/cale
+ ndar/issues/104</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/104
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399245@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250217T230000Z
+DTSTART:20250217T230000Z
+DTEND:20250218T010000Z
+SUMMARY:CANCELLED: DIDdevs: Decentralized Web Meetup #7
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/103
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/103\">https://github.com/ATLBitLab/cale
+ ndar/issues/103</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/103
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399214@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250120T230000Z
+DTSTART:20250120T230000Z
+DTEND:20250121T010000Z
+SUMMARY:CANCELLED: DIDdevs: Decentralized Web Meetup #6
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/102
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/102\">https://github.com/ATLBitLab/cale
+ ndar/issues/102</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/102
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399191@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250310T220000Z
+DTSTART:20250310T220000Z
+DTEND:20250311T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #7
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/101
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/101\">https://github.com/ATLBitLab/cale
+ ndar/issues/101</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/101
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399172@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250210T230000Z
+DTSTART:20250210T230000Z
+DTEND:20250211T010000Z
+SUMMARY:AiTL - AI Builders Meetup - #6
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/100
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/100\">https://github.com/ATLBitLab/cale
+ ndar/issues/100</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/100
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399148@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250113T230000Z
+DTSTART:20250113T230000Z
+DTEND:20250114T010000Z
+SUMMARY:AiTL - AI Builders Meetup - #5
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/99
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/99\">https://github.com/ATLBitLab/calen
+ dar/issues/99</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/99
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399117@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250303T230000Z
+DTSTART:20250303T230000Z
+DTEND:20250304T010000Z
+SUMMARY:Security Night #7 - Cybersecurity\, InfoSec\, Hacking Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/98
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/98\">https://github.com/ATLBitLab/calen
+ dar/issues/98</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/98
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399087@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250203T230000Z
+DTSTART:20250203T230000Z
+DTEND:20250204T010000Z
+SUMMARY:Security Night #6 - Cybersecurity\, InfoSec\, Hacking Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/97
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/97\">https://github.com/ATLBitLab/calen
+ dar/issues/97</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/97
+END:VEVENT
+BEGIN:VEVENT
+UID:2762399061@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250106T230000Z
+DTSTART:20250106T230000Z
+DTEND:20250107T010000Z
+SUMMARY:Security Night #5 - Cybersecurity\, InfoSec\, Hacking Meetup
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/96
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/96\">https://github.com/ATLBitLab/calen
+ dar/issues/96</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/96
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354634@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251203T230000Z
+DTSTART:20251203T230000Z
+DTEND:20251204T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #23
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/95\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-23.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/95\">https://gith
+ ub.com/ATLBitLab/calendar/issues/95</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-23.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/95
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354591@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251126T230000Z
+DTSTART:20251126T230000Z
+DTEND:20251127T020000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - November
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/94\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/94\">https://gith
+ ub.com/ATLBitLab/calendar/issues/94</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/94
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354566@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251119T230000Z
+DTSTART:20251119T230000Z
+DTEND:20251120T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #45
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305303592/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/93\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socrat
+ ic-seminar-45.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305303592/\">https://www.mee
+ tup.com/atlbitlab/events/305303592/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/93\">https://github.c
+ om/ATLBitLab/calendar/issues/93</a><br><br>Poster: 2025/atlanta-bitdevs-bi
+ tcoin-socratic-seminar-45.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/93
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354533@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251112T230000Z
+DTSTART:20251112T230000Z
+DTEND:20251113T010000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - November
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/92\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/92\">https://gith
+ ub.com/ATLBitLab/calendar/issues/92</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/92
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354503@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251105T230000Z
+DTSTART:20251105T230000Z
+DTEND:20251106T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #22
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/91\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-22.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/91\">https://gith
+ ub.com/ATLBitLab/calendar/issues/91</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-22.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/91
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354466@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251029T220000Z
+DTSTART:20251029T220000Z
+DTEND:20251030T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #21
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/90\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-21.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/90\">https://gith
+ ub.com/ATLBitLab/calendar/issues/90</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-21.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/90
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354440@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251022T220000Z
+DTSTART:20251022T220000Z
+DTEND:20251023T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - October
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/89\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/89\">https://gith
+ ub.com/ATLBitLab/calendar/issues/89</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/89
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354419@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251012T220000Z
+DTSTART:20251012T220000Z
+DTEND:20251013T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #44
+LOCATION:TBD
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/88\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-44.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/88\">https://gith
+ ub.com/ATLBitLab/calendar/issues/88</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-44.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/88
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354385@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251008T220000Z
+DTSTART:20251008T220000Z
+DTEND:20251009T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - October
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/87\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/87\">https://gith
+ ub.com/ATLBitLab/calendar/issues/87</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/87
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354346@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20251001T220000Z
+DTSTART:20251001T220000Z
+DTEND:20251002T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #20
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/86\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-20.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/86\">https://gith
+ ub.com/ATLBitLab/calendar/issues/86</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-20.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/86
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354308@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250924T220000Z
+DTSTART:20250924T220000Z
+DTEND:20250925T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - September
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/85\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/85\">https://gith
+ ub.com/ATLBitLab/calendar/issues/85</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/85
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354281@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250917T220000Z
+DTSTART:20250917T220000Z
+DTEND:20250918T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #43
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/84\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-43.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/84\">https://gith
+ ub.com/ATLBitLab/calendar/issues/84</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-43.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/84
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354256@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250910T220000Z
+DTSTART:20250910T220000Z
+DTEND:20250911T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - September
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/83\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/83\">https://gith
+ ub.com/ATLBitLab/calendar/issues/83</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/83
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354219@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250903T220000Z
+DTSTART:20250903T220000Z
+DTEND:20250904T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #19
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/82\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-19.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/82\">https://gith
+ ub.com/ATLBitLab/calendar/issues/82</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-19.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/82
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354182@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250827T220000Z
+DTSTART:20250827T220000Z
+DTEND:20250828T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - August
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/81\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/81\">https://gith
+ ub.com/ATLBitLab/calendar/issues/81</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/81
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354151@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250820T220000Z
+DTSTART:20250820T220000Z
+DTEND:20250821T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #42
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/80\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-42.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/80\">https://gith
+ ub.com/ATLBitLab/calendar/issues/80</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-42.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/80
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354124@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250813T220000Z
+DTSTART:20250813T220000Z
+DTEND:20250814T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - August
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/79\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/79\">https://gith
+ ub.com/ATLBitLab/calendar/issues/79</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/79
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354106@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250806T220000Z
+DTSTART:20250806T220000Z
+DTEND:20250807T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #18
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/78\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-18.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/78\">https://gith
+ ub.com/ATLBitLab/calendar/issues/78</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-18.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/78
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354076@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250730T220000Z
+DTSTART:20250730T220000Z
+DTEND:20250731T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #17
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/77\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-17.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/77\">https://gith
+ ub.com/ATLBitLab/calendar/issues/77</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-17.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/77
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354051@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250723T220000Z
+DTSTART:20250723T220000Z
+DTEND:20250724T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - July
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/76\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/76\">https://gith
+ ub.com/ATLBitLab/calendar/issues/76</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/76
+END:VEVENT
+BEGIN:VEVENT
+UID:2762354023@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250716T220000Z
+DTSTART:20250716T220000Z
+DTEND:20250717T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #41
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/75\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-41.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/75\">https://gith
+ ub.com/ATLBitLab/calendar/issues/75</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-41.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/75
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353995@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250709T220000Z
+DTSTART:20250709T220000Z
+DTEND:20250710T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - July
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/74\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/74\">https://gith
+ ub.com/ATLBitLab/calendar/issues/74</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/74
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353967@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250702T220000Z
+DTSTART:20250702T220000Z
+DTEND:20250703T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #16 - Surviving Quantum Computing - Andr
+ eas Yankopolus
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/73\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-16.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/73\">https://gith
+ ub.com/ATLBitLab/calendar/issues/73</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-16.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/73
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353924@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250625T220000Z
+DTSTART:20250625T220000Z
+DTEND:20250626T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - June
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/72\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/72\">https://gith
+ ub.com/ATLBitLab/calendar/issues/72</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/72
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353084@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250618T220000Z
+DTSTART:20250618T220000Z
+DTEND:20250619T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #40
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/71\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-40.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/71\">https://gith
+ ub.com/ATLBitLab/calendar/issues/71</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-40.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/71
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353077@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250611T220000Z
+DTSTART:20250611T220000Z
+DTEND:20250612T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - June
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/70\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/70\">https://gith
+ ub.com/ATLBitLab/calendar/issues/70</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/70
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353068@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250604T220000Z
+DTSTART:20250604T220000Z
+DTEND:20250605T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #15 - Bitcoin 2025 Conference Recap
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/69\n\nPoster: 2025/atlanta-bitdevs-learning-bitc
+ oin-15.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/69\">https://gith
+ ub.com/ATLBitLab/calendar/issues/69</a><br><br>Poster: 2025/atlanta-bitdev
+ s-learning-bitcoin-15.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/69
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353059@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250528T220000Z
+DTSTART:20250528T220000Z
+DTEND:20250529T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - May
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/68\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pu
+ b-night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/68\">https://gith
+ ub.com/ATLBitLab/calendar/issues/68</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/68
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353052@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250521T220000Z
+DTSTART:20250521T220000Z
+DTEND:20250522T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #39
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/67\n\nPoster: 2025/atlanta-bitdevs-bitcoin-socra
+ tic-seminar-39.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/67\">https://gith
+ ub.com/ATLBitLab/calendar/issues/67</a><br><br>Poster: 2025/atlanta-bitdev
+ s-bitcoin-socratic-seminar-39.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/67
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353040@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250514T220000Z
+DTSTART:20250514T220000Z
+DTEND:20250515T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - May
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nContribute to the event: https://github.com/
+ ATLBitLab/calendar/issues/66\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meet
+ up.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>Contribute to the event
+ : <a href=\"https://github.com/ATLBitLab/calendar/issues/66\">https://gith
+ ub.com/ATLBitLab/calendar/issues/66</a><br><br>Poster: 2025/atlanta-bitple
+ bs-bitcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/66
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353035@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250507T220000Z
+DTSTART:20250507T220000Z
+DTEND:20250508T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #14
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305305129/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/65\n\nPoster: 2025/atlanta-bitdevs-learning-bitco
+ in-14.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305305129/\">https://www.mee
+ tup.com/atlbitlab/events/305305129/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/65\">https://github.c
+ om/ATLBitLab/calendar/issues/65</a><br><br>Poster: 2025/atlanta-bitdevs-le
+ arning-bitcoin-14.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/65
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353031@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250430T220000Z
+DTSTART:20250430T220000Z
+DTEND:20250501T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #13
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305305128/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/64\n\nPoster: 2025/atlanta-bitdevs-learning-bitco
+ in-13.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305305128/\">https://www.mee
+ tup.com/atlbitlab/events/305305128/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/64\">https://github.c
+ om/ATLBitLab/calendar/issues/64</a><br><br>Poster: 2025/atlanta-bitdevs-le
+ arning-bitcoin-13.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/64
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353025@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250423T220000Z
+DTSTART:20250423T220000Z
+DTEND:20250424T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - April
+LOCATION:Manuel's Tavern
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305302829/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/63\n\nPoster: 2025/atlanta-bitplebs-bitcoiner-pub
+ -night.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305302829/\">https://www.mee
+ tup.com/atlbitlab/events/305302829/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/63\">https://github.c
+ om/ATLBitLab/calendar/issues/63</a><br><br>Poster: 2025/atlanta-bitplebs-b
+ itcoiner-pub-night.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/63
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353015@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250416T220000Z
+DTSTART:20250416T220000Z
+DTEND:20250417T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #38
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305303579/?eventOrigin=group_events_list\n\nContribute to t
+ he event: https://github.com/ATLBitLab/calendar/issues/62\n\nPoster: 2025/
+ atlanta-bitdevs-bitcoin-socratic-seminar-38.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305303579/?eventOrigin=group
+ _events_list\">https://www.meetup.com/atlbitlab/events/305303579/?eventOri
+ gin=group_events_list</a><br><br>Contribute to the event: <a href=\"https:
+ //github.com/ATLBitLab/calendar/issues/62\">https://github.com/ATLBitLab/c
+ alendar/issues/62</a><br><br>Poster: 2025/atlanta-bitdevs-bitcoin-socratic
+ -seminar-38.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/62
+END:VEVENT
+BEGIN:VEVENT
+UID:2762353011@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250409T220000Z
+DTSTART:20250409T220000Z
+DTEND:20250410T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - April
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305317567/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/61\n\nPoster: 2025/atlanta-bitplebs-bitcoin-meetu
+ p.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305317567/\">https://www.mee
+ tup.com/atlbitlab/events/305317567/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/61\">https://github.c
+ om/ATLBitLab/calendar/issues/61</a><br><br>Poster: 2025/atlanta-bitplebs-b
+ itcoin-meetup.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/61
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352997@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250402T220000Z
+DTSTART:20250402T220000Z
+DTEND:20250403T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #12 - Spaces Protocol
+LOCATION:ATL BitLab
+DESCRIPTION:Format: Public\n\nRSVP to the event: https://www.meetup.com/at
+ lbitlab/events/305305126/\n\nContribute to the event: https://github.com/A
+ TLBitLab/calendar/issues/60\n\nPoster: 2025/atlanta-bitdevs-learning-bitco
+ in-12.jpg
+X-ALT-DESC;FMTTYPE=text/html:Format: Public<br><br>RSVP to the event: <a h
+ ref=\"https://www.meetup.com/atlbitlab/events/305305126/\">https://www.mee
+ tup.com/atlbitlab/events/305305126/</a><br><br>Contribute to the event: <a
+  href=\"https://github.com/ATLBitLab/calendar/issues/60\">https://github.c
+ om/ATLBitLab/calendar/issues/60</a><br><br>Poster: 2025/atlanta-bitdevs-le
+ arning-bitcoin-12.jpg
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/60
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352989@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250326T220000Z
+DTSTART:20250326T220000Z
+DTEND:20250327T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - March
+LOCATION:Manuel's Tavern
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/59
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/59\">https://github.com/ATLBitLab/calen
+ dar/issues/59</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/59
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352978@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250319T220000Z
+DTSTART:20250319T220000Z
+DTEND:20250320T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #37
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/58
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/58\">https://github.com/ATLBitLab/calen
+ dar/issues/58</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/58
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352969@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250312T220000Z
+DTSTART:20250312T220000Z
+DTEND:20250313T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - March
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/57
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/57\">https://github.com/ATLBitLab/calen
+ dar/issues/57</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/57
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352960@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250305T230000Z
+DTSTART:20250305T230000Z
+DTEND:20250306T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #11
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/56
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/56\">https://github.com/ATLBitLab/calen
+ dar/issues/56</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/56
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352948@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250226T230000Z
+DTSTART:20250226T230000Z
+DTEND:20250227T020000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - February
+LOCATION:Manuel's Tavern
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/55
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/55\">https://github.com/ATLBitLab/calen
+ dar/issues/55</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/55
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352940@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250219T230000Z
+DTSTART:20250219T230000Z
+DTEND:20250220T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #36
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/54
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/54\">https://github.com/ATLBitLab/calen
+ dar/issues/54</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/54
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352935@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250212T230000Z
+DTSTART:20250212T230000Z
+DTEND:20250213T010000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - February
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/53
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/53\">https://github.com/ATLBitLab/calen
+ dar/issues/53</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/53
+END:VEVENT
+BEGIN:VEVENT
+UID:2762352928@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250205T230000Z
+DTSTART:20250205T230000Z
+DTEND:20250206T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #10
+LOCATION:ATL BitLab
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/52
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/52\">https://github.com/ATLBitLab/calen
+ dar/issues/52</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/52
+END:VEVENT
+BEGIN:VEVENT
+UID:2762340916@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250108T230000Z
+DTSTART:20250108T230000Z
+DTEND:20250109T010000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - January
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/51
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/51\">https://github.com/ATLBitLab/calen
+ dar/issues/51</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/51
+END:VEVENT
+BEGIN:VEVENT
+UID:2762032694@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250129T230000Z
+DTSTART:20250129T230000Z
+DTEND:20250130T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #9
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/50
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/50\">https://github.com/ATLBitLab/calen
+ dar/issues/50</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/50
+END:VEVENT
+BEGIN:VEVENT
+UID:2761973880@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250115T230000Z
+DTSTART:20250115T230000Z
+DTEND:20250116T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #35
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/49
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/49\">https://github.com/ATLBitLab/calen
+ dar/issues/49</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/49
+END:VEVENT
+BEGIN:VEVENT
+UID:2761914038@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20250122T230000Z
+DTSTART:20250122T230000Z
+DTEND:20250123T020000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - January
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/48
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/48\">https://github.com/ATLBitLab/calen
+ dar/issues/48</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/48
+END:VEVENT
+BEGIN:VEVENT
+UID:2706230558@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241216T230000Z
+DTSTART:20241216T230000Z
+DTEND:20241217T010000Z
+SUMMARY:❌ CANCELLED: DIDdevs: Decentralized Web Meetup #6
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/46
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/46\">https://github.com/ATLBitLab/calen
+ dar/issues/46</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/46
+END:VEVENT
+BEGIN:VEVENT
+UID:2706227710@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241211T230000Z
+DTSTART:20241211T230000Z
+DTEND:20241212T030000Z
+SUMMARY:Holiday Bash: Atlanta Bitcoin Community
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/45
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/45\">https://github.com/ATLBitLab/calen
+ dar/issues/45</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/45
+END:VEVENT
+BEGIN:VEVENT
+UID:2560257067@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241022T130000Z
+DTSTART:20241022T130000Z
+DTEND:20241022T220000Z
+SUMMARY:TABConf [FREE PLAY] #2 - Open Co-working Day
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/42
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/42\">https://github.com/ATLBitLab/calen
+ dar/issues/42</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/42
+END:VEVENT
+BEGIN:VEVENT
+UID:2560256858@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241021T130000Z
+DTSTART:20241021T130000Z
+DTEND:20241021T220000Z
+SUMMARY:TABConf [FREE PLAY] #1 - Open Co-working Day
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/41
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/41\">https://github.com/ATLBitLab/calen
+ dar/issues/41</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/41
+END:VEVENT
+BEGIN:VEVENT
+UID:2560118183@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241003T130000Z
+DTSTART:20241003T130000Z
+DTEND:20241003T210000Z
+SUMMARY:☕️ Ecash Coffee Day - Open Co-working
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/40
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/40\">https://github.com/ATLBitLab/calen
+ dar/issues/40</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/40
+END:VEVENT
+BEGIN:VEVENT
+UID:2559035456@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241014T220000Z
+DTSTART:20241014T220000Z
+DTEND:20241015T000000Z
+SUMMARY:AiTL - AI Builders Meetup #4
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/39
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/39\">https://github.com/ATLBitLab/calen
+ dar/issues/39</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/39
+END:VEVENT
+BEGIN:VEVENT
+UID:2559020436@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241007T220000Z
+DTSTART:20241007T220000Z
+DTEND:20241008T000000Z
+SUMMARY:🌙 Security Night #4
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/38
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/38\">https://github.com/ATLBitLab/calen
+ dar/issues/38</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/38
+END:VEVENT
+BEGIN:VEVENT
+UID:2558999258@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241021T220000Z
+DTSTART:20241021T220000Z
+DTEND:20241022T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #4
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/37
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/37\">https://github.com/ATLBitLab/calen
+ dar/issues/37</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/37
+END:VEVENT
+BEGIN:VEVENT
+UID:2494263820@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240923T220000Z
+DTSTART:20240923T220000Z
+DTEND:20240924T000000Z
+SUMMARY:ATL Designers #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/36
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/36\">https://github.com/ATLBitLab/calen
+ dar/issues/36</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/36
+END:VEVENT
+BEGIN:VEVENT
+UID:2494257928@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240916T220000Z
+DTSTART:20240916T220000Z
+DTEND:20240917T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #3
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/35
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/35\">https://github.com/ATLBitLab/calen
+ dar/issues/35</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/35
+END:VEVENT
+BEGIN:VEVENT
+UID:2494253091@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240903T220000Z
+DTSTART:20240903T220000Z
+DTEND:20240904T000000Z
+SUMMARY:🌙 Security Night #3
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/34
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/34\">https://github.com/ATLBitLab/calen
+ dar/issues/34</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/34
+END:VEVENT
+BEGIN:VEVENT
+UID:2494230935@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240909T220000Z
+DTSTART:20240909T220000Z
+DTEND:20240910T000000Z
+SUMMARY:AiTL - AI Builders Meetup #3
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/33
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/33\">https://github.com/ATLBitLab/calen
+ dar/issues/33</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/33
+END:VEVENT
+BEGIN:VEVENT
+UID:2423990674@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240930T220000Z
+DTSTART:20240930T220000Z
+DTEND:20241001T000000Z
+SUMMARY:O4W Tech Social - Fall
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/32
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/32\">https://github.com/ATLBitLab/calen
+ dar/issues/32</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/32
+END:VEVENT
+BEGIN:VEVENT
+UID:2423989343@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240729T220000Z
+DTSTART:20240729T220000Z
+DTEND:20240730T000000Z
+SUMMARY:O4W Tech Social - Summer
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/31
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/31\">https://github.com/ATLBitLab/calen
+ dar/issues/31</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/31
+END:VEVENT
+BEGIN:VEVENT
+UID:2408593749@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240819T220000Z
+DTSTART:20240819T220000Z
+DTEND:20240820T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/30
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/30\">https://github.com/ATLBitLab/calen
+ dar/issues/30</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/30
+END:VEVENT
+BEGIN:VEVENT
+UID:2408590868@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240715T220000Z
+DTSTART:20240715T220000Z
+DTEND:20240716T000000Z
+SUMMARY:DIDdevs: Decentralized Web Meetup #1
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/29
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/29\">https://github.com/ATLBitLab/calen
+ dar/issues/29</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/29
+END:VEVENT
+BEGIN:VEVENT
+UID:2394366410@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240812T220000Z
+DTSTART:20240812T220000Z
+DTEND:20240813T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/28
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/28\">https://github.com/ATLBitLab/calen
+ dar/issues/28</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/28
+END:VEVENT
+BEGIN:VEVENT
+UID:2394364708@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240708T220000Z
+DTSTART:20240708T220000Z
+DTEND:20240709T000000Z
+SUMMARY:AiTL - AI Builders Meetup - #1
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/27
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/27\">https://github.com/ATLBitLab/calen
+ dar/issues/27</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/27
+END:VEVENT
+BEGIN:VEVENT
+UID:2383684755@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240805T220000Z
+DTSTART:20240805T220000Z
+DTEND:20240806T000000Z
+SUMMARY:🌙 Security Night #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/26
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/26\">https://github.com/ATLBitLab/calen
+ dar/issues/26</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/26
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503872@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241113T230000Z
+DTSTART:20241113T230000Z
+DTEND:20241114T010000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - November
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/25
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/25\">https://github.com/ATLBitLab/calen
+ dar/issues/25</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/25
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503855@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241009T220000Z
+DTSTART:20241009T220000Z
+DTEND:20241010T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - October
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/24
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/24\">https://github.com/ATLBitLab/calen
+ dar/issues/24</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/24
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503830@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240911T220000Z
+DTSTART:20240911T220000Z
+DTEND:20240912T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - September
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/23
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/23\">https://github.com/ATLBitLab/calen
+ dar/issues/23</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/23
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503808@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240814T220000Z
+DTSTART:20240814T220000Z
+DTEND:20240815T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - August
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/22
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/22\">https://github.com/ATLBitLab/calen
+ dar/issues/22</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/22
+END:VEVENT
+BEGIN:VEVENT
+UID:2382503767@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240710T220000Z
+DTSTART:20240710T220000Z
+DTEND:20240711T000000Z
+SUMMARY:BitPlebs: Bitcoin Meetup @ ATL BitLab - July
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/21
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/21\">https://github.com/ATLBitLab/calen
+ dar/issues/21</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/21
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483560@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241127T230000Z
+DTSTART:20241127T230000Z
+DTEND:20241128T020000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - November
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/20
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/20\">https://github.com/ATLBitLab/calen
+ dar/issues/20</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/20
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483548@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240925T220000Z
+DTSTART:20240925T220000Z
+DTEND:20240926T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - September
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/19
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/19\">https://github.com/ATLBitLab/calen
+ dar/issues/19</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/19
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483532@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240828T220000Z
+DTSTART:20240828T220000Z
+DTEND:20240829T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - August
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/18
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/18\">https://github.com/ATLBitLab/calen
+ dar/issues/18</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/18
+END:VEVENT
+BEGIN:VEVENT
+UID:2382483516@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240724T220000Z
+DTSTART:20240724T220000Z
+DTEND:20240725T010000Z
+SUMMARY:BitPlebs: Bitcoin Pub Night @ Manuel's Tavern - July
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/17
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/17\">https://github.com/ATLBitLab/calen
+ dar/issues/17</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/17
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466916@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241120T230000Z
+DTSTART:20241120T230000Z
+DTEND:20241121T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #34
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/16
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/16\">https://github.com/ATLBitLab/calen
+ dar/issues/16</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/16
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466905@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241023T220000Z
+DTSTART:20241023T220000Z
+DTEND:20241024T010000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #33 @ Manuel's Tavern
+LOCATION:Manuel's Tavern\, 602 North Highland Avenue Northeast\, Atlanta\,
+  GA 30307
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/15
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/15\">https://github.com/ATLBitLab/calen
+ dar/issues/15</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/15
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466900@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240918T220000Z
+DTSTART:20240918T220000Z
+DTEND:20240919T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #32
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/14
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/14\">https://github.com/ATLBitLab/calen
+ dar/issues/14</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/14
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466886@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240821T220000Z
+DTSTART:20240821T220000Z
+DTEND:20240822T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #31
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/13
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/13\">https://github.com/ATLBitLab/calen
+ dar/issues/13</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/13
+END:VEVENT
+BEGIN:VEVENT
+UID:2382466836@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240717T220000Z
+DTSTART:20240717T220000Z
+DTEND:20240718T000000Z
+SUMMARY:BitDevs: Bitcoin Socratic Seminar #30
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/12
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/12\">https://github.com/ATLBitLab/calen
+ dar/issues/12</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/12
+END:VEVENT
+BEGIN:VEVENT
+UID:2381233211@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241204T230000Z
+DTSTART:20241204T230000Z
+DTEND:20241205T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #8
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/11
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/11\">https://github.com/ATLBitLab/calen
+ dar/issues/11</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/11
+END:VEVENT
+BEGIN:VEVENT
+UID:2381233119@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241106T230000Z
+DTSTART:20241106T230000Z
+DTEND:20241107T010000Z
+SUMMARY:BitDevs: Learning Bitcoin #7
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/10
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/10\">https://github.com/ATLBitLab/calen
+ dar/issues/10</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/10
+END:VEVENT
+BEGIN:VEVENT
+UID:2381233039@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241016T220000Z
+DTSTART:20241016T220000Z
+DTEND:20241017T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #6
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/9
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/9\">https://github.com/ATLBitLab/calend
+ ar/issues/9</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/9
+END:VEVENT
+BEGIN:VEVENT
+UID:2381232982@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20241002T220000Z
+DTSTART:20241002T220000Z
+DTEND:20241003T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #5 - Fedimint Web SDK
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/8
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/8\">https://github.com/ATLBitLab/calend
+ ar/issues/8</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/8
+END:VEVENT
+BEGIN:VEVENT
+UID:2381232900@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240904T220000Z
+DTSTART:20240904T220000Z
+DTEND:20240905T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #4
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/7
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/7\">https://github.com/ATLBitLab/calend
+ ar/issues/7</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/7
+END:VEVENT
+BEGIN:VEVENT
+UID:2381232822@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240807T220000Z
+DTSTART:20240807T220000Z
+DTEND:20240808T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #3
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/6
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/6\">https://github.com/ATLBitLab/calend
+ ar/issues/6</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/6
+END:VEVENT
+BEGIN:VEVENT
+UID:2381230004@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240731T220000Z
+DTSTART:20240731T220000Z
+DTEND:20240801T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #2
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/5
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/5\">https://github.com/ATLBitLab/calend
+ ar/issues/5</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/5
+END:VEVENT
+BEGIN:VEVENT
+UID:2379122933@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240703T220000Z
+DTSTART:20240703T220000Z
+DTEND:20240704T000000Z
+SUMMARY:BitDevs: Learning Bitcoin #1
+LOCATION:ATL BitLab\, 684 John Wesley Dobbs Ave NE\, Unit A1\, Atlanta\, G
+ A 30312
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/4
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/4\">https://github.com/ATLBitLab/calend
+ ar/issues/4</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/4
+END:VEVENT
+BEGIN:VEVENT
+UID:2379099214@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240701T220000Z
+DTSTART:20240701T220000Z
+DTEND:20240702T000000Z
+SUMMARY:🌙 Security Night #1
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/3
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/3\">https://github.com/ATLBitLab/calend
+ ar/issues/3</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/3
+END:VEVENT
+BEGIN:VEVENT
+UID:2379073024@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240601T170000Z
+DTSTART:20240601T170000Z
+DTEND:20240601T180000Z
+SUMMARY:Test Event 2
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/2
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/2\">https://github.com/ATLBitLab/calend
+ ar/issues/2</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/2
+END:VEVENT
+BEGIN:VEVENT
+UID:2376322595@atlbitlab.com
+SEQUENCE:0
+DTSTAMP:20240701T160000Z
+DTSTART:20240701T160000Z
+DTEND:20240701T170000Z
+SUMMARY:Test Event
+DESCRIPTION:Contribute to the event: https://github.com/ATLBitLab/calendar
+ /issues/1
+X-ALT-DESC;FMTTYPE=text/html:Contribute to the event: <a href=\"https://gi
+ thub.com/ATLBitLab/calendar/issues/1\">https://github.com/ATLBitLab/calend
+ ar/issues/1</a>
+URL;VALUE=URI:https://github.com/ATLBitLab/calendar/issues/1
+END:VEVENT
+END:VCALENDAR
